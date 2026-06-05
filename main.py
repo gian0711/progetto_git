@@ -1,6 +1,4 @@
 print("ciao!!!")
 print("modifica branchtest")
 print("sto cercando di imparare al meglio lo switch fra i branch")
-print("aggiungo riga su main.py di branchtest")
-print("aggiornato")
 print("modificato da github")
